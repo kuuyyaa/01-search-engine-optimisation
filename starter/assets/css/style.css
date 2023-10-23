@@ -45,13 +45,13 @@ nav ul {
     font-size: 20px;
 }
 
+p {
+    font-size: 16px;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 section img {
@@ -119,5 +119,3 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-
