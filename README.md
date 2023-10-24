@@ -12,5 +12,5 @@ For any future use: files can be managed and edited through any IDE (VSCode reco
 
 # Usage
 
-Accessibility criteria can be verified using a browser to inspect accessibility properties.
+Accessibility criteria can be verified through a browser by inspecting accessibility properties.
 ![screenshot inspecting an image's properties](./assets/images/inspect-accessibility-properites.png)
